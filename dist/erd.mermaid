@@ -1,0 +1,38 @@
+erDiagram
+Thing {
+    uriorcurie id  
+}
+DescribableThing {
+    uriorcurie id  
+}
+Item {
+    string label  
+    uriorcurie isPartOf  
+    uriorcurie id  
+}
+Descriptor {
+    string value  
+    integer offset  
+    integer length  
+    float coverage  
+    uriorcurie id  
+}
+DescriptorType {
+    string label  
+    integer block_size  
+    uriorcurie id  
+}
+Method {
+    string label  
+    string comment  
+    descriptor_robustness robustness  
+    uriorcurie id  
+}
+
+DescribableThing ||--}o Descriptor : "hasDescriptor"
+Item ||--}o Descriptor : "hasDescriptor"
+Descriptor ||--|| DescriptorType : "hasType"
+Descriptor ||--}o Descriptor : "hasDescriptor"
+DescriptorType ||--|| Method : "usesMethod"
+
+
