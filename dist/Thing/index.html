@@ -200,7 +200,8 @@
 <svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M20.71 7.04c.39-.39.39-1.04 0-1.41l-2.34-2.34c-.37-.39-1.02-.39-1.41 0l-1.84 1.83 3.75 3.75M3 17.25V21h3.75L17.81 9.93l-3.75-3.75L3 17.25Z"></path></svg>
 </a>
 <h1 id="class-thing">Class: Thing</h1>
-<p>URI: <a href="https://crystalia.link/ontology/1.0/Thing">crys:Thing</a></p>
+<p><em>Anything that has an id</em></p>
+<p>URI: <a href="https://w3id.org/crystalia/Thing">crys:Thing</a></p>
 <div class="mermaid"> classDiagram
     class Thing
     click Thing href "../Thing"
@@ -246,7 +247,7 @@
 <h2 id="identifier-and-mapping-information">Identifier and Mapping Information</h2>
 <h3 id="schema-source">Schema Source</h3>
 <ul>
-<li>from schema: https://crystalia.link/ontology</li>
+<li>from schema: https://w3id.org/crystalia</li>
 </ul>
 <h2 id="mappings">Mappings</h2>
 <table>
@@ -272,7 +273,8 @@
 <h3 id="direct">Direct</h3>
 <details>
 <pre><code class="language-yaml">name: Thing
-from_schema: https://crystalia.link/ontology
+description: Anything that has an id
+from_schema: https://w3id.org/crystalia
 rank: 1000
 slots:
 - id
@@ -282,13 +284,14 @@ slots:
 <h3 id="induced">Induced</h3>
 <details>
 <pre><code class="language-yaml">name: Thing
-from_schema: https://crystalia.link/ontology
+description: Anything that has an id
+from_schema: https://w3id.org/crystalia
 rank: 1000
 attributes:
   id:
     name: id
     description: A unique identifier
-    from_schema: https://crystalia.link/ontology
+    from_schema: https://w3id.org/crystalia
     rank: 1000
     identifier: true
     alias: id

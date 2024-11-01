@@ -2,226 +2,170 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://vladistan.github.io/crystalia-collector/</loc>
-         <lastmod>2024-10-30</lastmod>
+         <lastmod>2024-11-01</lastmod>
     </url>
     <url>
          <loc>https://vladistan.github.io/crystalia-collector/Boolean/</loc>
-         <lastmod>2024-10-30</lastmod>
+         <lastmod>2024-11-01</lastmod>
     </url>
     <url>
          <loc>https://vladistan.github.io/crystalia-collector/Curie/</loc>
-         <lastmod>2024-10-30</lastmod>
-    </url>
-    <url>
-         <loc>https://vladistan.github.io/crystalia-collector/Dataset/</loc>
-         <lastmod>2024-10-30</lastmod>
+         <lastmod>2024-11-01</lastmod>
     </url>
     <url>
          <loc>https://vladistan.github.io/crystalia-collector/Date/</loc>
-         <lastmod>2024-10-30</lastmod>
+         <lastmod>2024-11-01</lastmod>
     </url>
     <url>
          <loc>https://vladistan.github.io/crystalia-collector/DateOrDatetime/</loc>
-         <lastmod>2024-10-30</lastmod>
+         <lastmod>2024-11-01</lastmod>
     </url>
     <url>
          <loc>https://vladistan.github.io/crystalia-collector/Datetime/</loc>
-         <lastmod>2024-10-30</lastmod>
+         <lastmod>2024-11-01</lastmod>
     </url>
     <url>
          <loc>https://vladistan.github.io/crystalia-collector/Decimal/</loc>
-         <lastmod>2024-10-30</lastmod>
-    </url>
-    <url>
-         <loc>https://vladistan.github.io/crystalia-collector/DescribableEntity/</loc>
-         <lastmod>2024-10-30</lastmod>
+         <lastmod>2024-11-01</lastmod>
     </url>
     <url>
          <loc>https://vladistan.github.io/crystalia-collector/DescribableThing/</loc>
-         <lastmod>2024-10-30</lastmod>
+         <lastmod>2024-11-01</lastmod>
     </url>
     <url>
          <loc>https://vladistan.github.io/crystalia-collector/Descriptor/</loc>
-         <lastmod>2024-10-30</lastmod>
-    </url>
-    <url>
-         <loc>https://vladistan.github.io/crystalia-collector/DescriptorQuality/</loc>
-         <lastmod>2024-10-30</lastmod>
+         <lastmod>2024-11-01</lastmod>
     </url>
     <url>
          <loc>https://vladistan.github.io/crystalia-collector/DescriptorRobustness/</loc>
-         <lastmod>2024-10-30</lastmod>
+         <lastmod>2024-11-01</lastmod>
     </url>
     <url>
          <loc>https://vladistan.github.io/crystalia-collector/DescriptorType/</loc>
-         <lastmod>2024-10-30</lastmod>
+         <lastmod>2024-11-01</lastmod>
     </url>
     <url>
          <loc>https://vladistan.github.io/crystalia-collector/Double/</loc>
-         <lastmod>2024-10-30</lastmod>
+         <lastmod>2024-11-01</lastmod>
     </url>
     <url>
          <loc>https://vladistan.github.io/crystalia-collector/Float/</loc>
-         <lastmod>2024-10-30</lastmod>
+         <lastmod>2024-11-01</lastmod>
     </url>
     <url>
          <loc>https://vladistan.github.io/crystalia-collector/Integer/</loc>
-         <lastmod>2024-10-30</lastmod>
+         <lastmod>2024-11-01</lastmod>
     </url>
     <url>
          <loc>https://vladistan.github.io/crystalia-collector/Item/</loc>
-         <lastmod>2024-10-30</lastmod>
+         <lastmod>2024-11-01</lastmod>
     </url>
     <url>
          <loc>https://vladistan.github.io/crystalia-collector/Jsonpath/</loc>
-         <lastmod>2024-10-30</lastmod>
+         <lastmod>2024-11-01</lastmod>
     </url>
     <url>
          <loc>https://vladistan.github.io/crystalia-collector/Jsonpointer/</loc>
-         <lastmod>2024-10-30</lastmod>
+         <lastmod>2024-11-01</lastmod>
     </url>
     <url>
          <loc>https://vladistan.github.io/crystalia-collector/Method/</loc>
-         <lastmod>2024-10-30</lastmod>
+         <lastmod>2024-11-01</lastmod>
     </url>
     <url>
          <loc>https://vladistan.github.io/crystalia-collector/Ncname/</loc>
-         <lastmod>2024-10-30</lastmod>
+         <lastmod>2024-11-01</lastmod>
     </url>
     <url>
          <loc>https://vladistan.github.io/crystalia-collector/Nodeidentifier/</loc>
-         <lastmod>2024-10-30</lastmod>
+         <lastmod>2024-11-01</lastmod>
     </url>
     <url>
          <loc>https://vladistan.github.io/crystalia-collector/Objectidentifier/</loc>
-         <lastmod>2024-10-30</lastmod>
+         <lastmod>2024-11-01</lastmod>
     </url>
     <url>
          <loc>https://vladistan.github.io/crystalia-collector/Sparqlpath/</loc>
-         <lastmod>2024-10-30</lastmod>
+         <lastmod>2024-11-01</lastmod>
     </url>
     <url>
          <loc>https://vladistan.github.io/crystalia-collector/String/</loc>
-         <lastmod>2024-10-30</lastmod>
+         <lastmod>2024-11-01</lastmod>
     </url>
     <url>
          <loc>https://vladistan.github.io/crystalia-collector/Thing/</loc>
-         <lastmod>2024-10-30</lastmod>
+         <lastmod>2024-11-01</lastmod>
     </url>
     <url>
          <loc>https://vladistan.github.io/crystalia-collector/Time/</loc>
-         <lastmod>2024-10-30</lastmod>
+         <lastmod>2024-11-01</lastmod>
     </url>
     <url>
          <loc>https://vladistan.github.io/crystalia-collector/Uri/</loc>
-         <lastmod>2024-10-30</lastmod>
+         <lastmod>2024-11-01</lastmod>
     </url>
     <url>
          <loc>https://vladistan.github.io/crystalia-collector/Uriorcurie/</loc>
-         <lastmod>2024-10-30</lastmod>
-    </url>
-    <url>
-         <loc>https://vladistan.github.io/crystalia-collector/block_size/</loc>
-         <lastmod>2024-10-30</lastmod>
+         <lastmod>2024-11-01</lastmod>
     </url>
     <url>
          <loc>https://vladistan.github.io/crystalia-collector/comment/</loc>
-         <lastmod>2024-10-30</lastmod>
-    </url>
-    <url>
-         <loc>https://vladistan.github.io/crystalia-collector/containsItem/</loc>
-         <lastmod>2024-10-30</lastmod>
+         <lastmod>2024-11-01</lastmod>
     </url>
     <url>
          <loc>https://vladistan.github.io/crystalia-collector/coverage/</loc>
-         <lastmod>2024-10-30</lastmod>
+         <lastmod>2024-11-01</lastmod>
     </url>
     <url>
          <loc>https://vladistan.github.io/crystalia-collector/crystalia-datamodel/</loc>
-         <lastmod>2024-10-30</lastmod>
-    </url>
-    <url>
-         <loc>https://vladistan.github.io/crystalia-collector/describes/</loc>
-         <lastmod>2024-10-30</lastmod>
+         <lastmod>2024-11-01</lastmod>
     </url>
     <url>
          <loc>https://vladistan.github.io/crystalia-collector/extra/</loc>
-         <lastmod>2024-10-30</lastmod>
-    </url>
-    <url>
-         <loc>https://vladistan.github.io/crystalia-collector/hasBlockSize/</loc>
-         <lastmod>2024-10-30</lastmod>
-    </url>
-    <url>
-         <loc>https://vladistan.github.io/crystalia-collector/hasCoverage/</loc>
-         <lastmod>2024-10-30</lastmod>
+         <lastmod>2024-11-01</lastmod>
     </url>
     <url>
          <loc>https://vladistan.github.io/crystalia-collector/hasDescriptor/</loc>
-         <lastmod>2024-10-30</lastmod>
-    </url>
-    <url>
-         <loc>https://vladistan.github.io/crystalia-collector/hasLength/</loc>
-         <lastmod>2024-10-30</lastmod>
-    </url>
-    <url>
-         <loc>https://vladistan.github.io/crystalia-collector/hasName/</loc>
-         <lastmod>2024-10-30</lastmod>
-    </url>
-    <url>
-         <loc>https://vladistan.github.io/crystalia-collector/hasQuality/</loc>
-         <lastmod>2024-10-30</lastmod>
-    </url>
-    <url>
-         <loc>https://vladistan.github.io/crystalia-collector/hasStartOffset/</loc>
-         <lastmod>2024-10-30</lastmod>
+         <lastmod>2024-11-01</lastmod>
     </url>
     <url>
          <loc>https://vladistan.github.io/crystalia-collector/hasType/</loc>
-         <lastmod>2024-10-30</lastmod>
-    </url>
-    <url>
-         <loc>https://vladistan.github.io/crystalia-collector/hasValue/</loc>
-         <lastmod>2024-10-30</lastmod>
+         <lastmod>2024-11-01</lastmod>
     </url>
     <url>
          <loc>https://vladistan.github.io/crystalia-collector/id/</loc>
-         <lastmod>2024-10-30</lastmod>
+         <lastmod>2024-11-01</lastmod>
     </url>
     <url>
          <loc>https://vladistan.github.io/crystalia-collector/isPartOf/</loc>
-         <lastmod>2024-10-30</lastmod>
+         <lastmod>2024-11-01</lastmod>
     </url>
     <url>
          <loc>https://vladistan.github.io/crystalia-collector/label/</loc>
-         <lastmod>2024-10-30</lastmod>
+         <lastmod>2024-11-01</lastmod>
     </url>
     <url>
          <loc>https://vladistan.github.io/crystalia-collector/length/</loc>
-         <lastmod>2024-10-30</lastmod>
-    </url>
-    <url>
-         <loc>https://vladistan.github.io/crystalia-collector/linkml-crystalia/</loc>
-         <lastmod>2024-10-30</lastmod>
+         <lastmod>2024-11-01</lastmod>
     </url>
     <url>
          <loc>https://vladistan.github.io/crystalia-collector/max_block_size/</loc>
-         <lastmod>2024-10-30</lastmod>
+         <lastmod>2024-11-01</lastmod>
     </url>
     <url>
          <loc>https://vladistan.github.io/crystalia-collector/offset/</loc>
-         <lastmod>2024-10-30</lastmod>
+         <lastmod>2024-11-01</lastmod>
     </url>
     <url>
          <loc>https://vladistan.github.io/crystalia-collector/robustness/</loc>
-         <lastmod>2024-10-30</lastmod>
+         <lastmod>2024-11-01</lastmod>
     </url>
     <url>
          <loc>https://vladistan.github.io/crystalia-collector/usesMethod/</loc>
-         <lastmod>2024-10-30</lastmod>
+         <lastmod>2024-11-01</lastmod>
     </url>
     <url>
          <loc>https://vladistan.github.io/crystalia-collector/value/</loc>
-         <lastmod>2024-10-30</lastmod>
+         <lastmod>2024-11-01</lastmod>
     </url>
 </urlset>

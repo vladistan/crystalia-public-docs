@@ -15,11 +15,12 @@ Descriptor {
     integer offset  
     integer length  
     float coverage  
+    string label  
     uriorcurie id  
 }
 DescriptorType {
     string label  
-    integer block_size  
+    integer max_block_size  
     uriorcurie id  
 }
 Method {
@@ -34,5 +35,3 @@ Item ||--}o Descriptor : "hasDescriptor"
 Descriptor ||--|| DescriptorType : "hasType"
 Descriptor ||--}o Descriptor : "hasDescriptor"
 DescriptorType ||--|| Method : "usesMethod"
-
-
